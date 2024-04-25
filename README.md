@@ -5,5 +5,6 @@ Source code to my portfolio website
 contains:- 
 contact information
 work experience
-volunteering
+volunteering experience
 skills
+certifications
